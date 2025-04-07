@@ -1,4 +1,3 @@
-# citizen-refrigeration-digitalization
 # 🧊 Digitalization of Citizen Refrigeration Operations
 
 ## 📌 Project Overview
